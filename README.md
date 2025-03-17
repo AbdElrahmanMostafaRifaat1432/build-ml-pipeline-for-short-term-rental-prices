@@ -31,6 +31,10 @@ In this project you will build such a pipeline.
   * [Train the model on a new data sample](#train-the-model-on-a-new-data-sample)
 - [Cleaning up](#cleaning-up)
 
+## my github and wandb
+github: https://github.com/AbdElrahmanMostafaRifaat1432/build-ml-pipeline-for-short-term-rental-prices.git
+wandb: https://wandb.ai/bodymostafa2001/nyc_airbnb
+
 ## Preliminary steps
 
 ### Supported Operating Systems
@@ -48,7 +52,7 @@ Please ensure you are using one of the supported OS versions to avoid compatibil
 This project requires **Python 3.10**. Please ensure that you have Python 3.10 installed and set as the default version in your environment to avoid any runtime issues.
 
 ### Fork the Starter kit
-Go to [https://github.com/udacity/build-ml-pipeline-for-short-term-rental-prices.git](https://github.com/udacity/build-ml-pipeline-for-short-term-rental-prices.git)
+Go to [https://github.com/AbdElrahmanMostafaRifaat1432/build-ml-pipeline-for-short-term-rental-prices.git](https://github.com/AbdElrahmanMostafaRifaat1432/build-ml-pipeline-for-short-term-rental-prices.git)
 and click on `Fork` in the upper right corner. This will create a fork in your Github account, i.e., a copy of the
 repository that is under your control. Now clone the repository locally so you can start working on it:
 
